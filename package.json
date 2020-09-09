@@ -1,0 +1,23 @@
+{
+  "name": "xinhong-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zstared/docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zstared/docs/issues"
+  },
+  "homepage": "https://github.com/zstared/docs#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
