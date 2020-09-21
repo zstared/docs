@@ -1,18 +1,18 @@
 ---
-title: WEB开发技术栈
+title: 前端开发技术
 
 home: true
 heroImage: /logo.svg
-heroText: WEB开发技术栈
-tagline: 从入门到精通
-actionText: 快速上手 →
+heroText: 前端开发技术
+tagline: 分享Web 前端开发技术相关知识
+actionText: 开始 →
 actionLink: /base/
 features:
-  - title: HTML
-    details: 定义网页内容。
-  - title: CSS
-    details: 描述网页样式。
-  - title: Javascript
-    details: 编写网页行为。
+  - title: 基础知识
+    details: HTML、CSS、Javascript、Node.js。
+  - title: 框架
+    details: React、Vue、Webpack、Koa。
+  - title: 项目
+    details: 可供学习与商用的项目。
 footer: MIT Licensed | Copyright © 2020-present Bruce Zheng
 ---

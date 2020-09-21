@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Web开发技术栈",
+  title: "前端开发技术",
   description: "前端,front-end,back-end,html,css,javascript,nodejs,webpack",
 
   headOption: {
@@ -40,11 +40,11 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/base/": [""],
+      "/base/": ["","./web/web.md"],
       "/base/html/": [""],
       "/base/css/": [""],
       "/base/javascript/": [""],
     },
-    sidebarDepth: 3,
+    sidebarDepth: 2,
   },
 };
